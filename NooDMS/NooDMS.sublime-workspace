@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"selectedRegions"
+			],
+			[
+				"sele",
+				"selectedBases"
+			],
+			[
+				"lis",
+				"listBases"
+			],
+			[
+				"Mode",
+				"Model__c	[Sobject Name]"
+			],
+			[
+				"Opp",
+				"Opportunity_Resource__c	[Sobject Name]"
+			],
+			[
+				"D",
+				"Date_from__c"
+			],
+			[
+				"va",
+				"validateResource"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"out",
+				"apex:outputField"
+			],
+			[
+				"Base",
+				"Base__c"
+			],
+			[
+				"li",
+				"listResources"
+			],
+			[
+				"select",
+				"apex:selectList"
+			],
+			[
+				"inpu",
+				"apex:inputField"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"re",
+				"rendered	(Boolean)"
+			],
+			[
+				"ren",
+				"reRender	(Object)"
+			],
+			[
+				"sty",
+				"startStyleClass	(String)"
+			],
+			[
+				"s",
+				"startStyle	(String)"
+			],
+			[
+				"outputL",
+				"apex:outputLink"
+			],
+			[
+				"apexout",
+				"apex:outputPanel"
+			],
+			[
+				"in",
+				"apex:inputText"
+			],
+			[
+				"a",
+				"action	(ApexPages.Action)"
+			],
+			[
+				"v",
+				"var	(String)"
+			],
+			[
+				"apexdat",
+				"apex:dataTable"
+			],
+			[
+				"apexsele",
+				"apex:selectList"
+			],
+			[
+				"apexme",
+				"apex:messages"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"margin-to",
+				"margin-top"
+			],
+			[
+				"bordr",
+				"border-collapse"
+			],
+			[
+				"borrb",
+				"border-bottom"
+			],
+			[
+				"ite",
+				"itemExtra"
+			],
+			[
+				"opp",
+				"oppId"
+			],
+			[
+				"OP",
+				"Opportunity_Extra__c"
+			],
+			[
+				"Oppo",
+				"Opportunity_Extra__c	[Sobject Name]"
+			],
+			[
+				"ex",
+				"extensions	(String)"
+			],
+			[
+				"ge",
+				"PUBLIC getRecord() 	SObject"
+			],
+			[
+				"selec",
+				"selectedRegions"
+			],
+			[
+				"resu",
+				"resultSet"
+			],
+			[
+				"getC",
+				"PUBLIC getContentAsPDF() 	Blob"
+			],
+			[
+				"wee",
+				"numberOfWeeks"
+			],
+			[
+				"o",
+				"oppId"
+			],
+			[
+				"si",
+				"PUBLIC size() 	Integer"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"cl",
+				"colspan	Attr"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"Page",
+				"PageReference	[Standard Apex Class]"
+			],
+			[
+				"date",
+				"dateFrom"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"output",
+				"apex:outputPanel"
+			],
+			[
+				"Ap",
+				"ApexPages	[Standard Apex Class]"
+			],
+			[
+				"sle",
+				"selectedBases"
+			],
+			[
+				"r",
+				"required	(Boolean)"
+			],
+			[
+				"pag",
+				"apex:pageMessages"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"co",
+				"contentType	(String)"
+			],
+			[
+				"p",
+				"Price__c 	Number"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"ca",
+				"capitalize"
+			],
+			[
+				"get",
+				"getFormalizedText"
+			],
+			[
+				"Oppot",
+				"OpportunityExtras"
+			],
+			[
+				"item",
+				"itemSeq"
+			],
+			[
+				"su",
+				"PUBLIC substring(Integer start, Integer end) 	String"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"BM",
+				"BM_id__c"
+			],
+			[
+				"Oppor",
+				"Opportunity_Extra__c	[Sobject Name]"
+			],
+			[
+				"B",
+				"Base__r"
+			],
+			[
+				"pageBl",
+				"apex:pageBlockSection"
+			],
+			[
+				"page",
+				"apex:pageBlock"
+			],
+			[
+				"tmp",
+				"tmpEx"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"b",
+				"text-bottom"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"num",
+				"numberOfYears"
+			],
+			[
+				"nu",
+				"numberOfCabins"
+			],
+			[
+				"pagi",
+				"paginatedSearchRespond"
+			],
+			[
+				"d",
+				"disabled	(Boolean)"
+			],
+			[
+				"paginat",
+				"paginatedSearchRespond"
+			],
+			[
+				"Model",
+				"listModels"
+			],
+			[
+				"gene",
+				"Generic_id__c"
+			],
+			[
+				"Gene",
+				"Generic_id__c"
+			],
+			[
+				"result",
+				"resultSet"
+			],
+			[
+				"apl",
+				"applyHtmlTag	(Boolean)"
+			],
+			[
+				"Re",
+				"PUBLIC resource	Resource__c"
+			],
+			[
+				"base",
+				"PUBLIC baseprice	String"
+			],
+			[
+				"O",
+				"Opportunity_Resource__c"
+			],
+			[
+				"Pa",
+				"PUBLIC ParsedItem()"
+			],
+			[
+				"chi",
+				"childItems"
+			],
+			[
+				"getR",
+				"getReservationStatusMessage"
+			],
+			[
+				"resource",
+				"resourceMap"
+			],
+			[
+				"Reo",
+				"Resource__c"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"me",
+				"apex:messages"
+			],
+			[
+				"selectedC",
+				"selectedCountries"
+			],
+			[
+				"BMIn",
+				"BMInteg_ObjectRowMapper	[Custom Apex Class]"
+			],
+			[
+				"sear",
+				"searchRespond"
+			],
+			[
+				"count",
+				"countryCode"
+			],
+			[
+				"resou",
+				"resourceTypes"
+			],
+			[
+				"BMInteg_",
+				"BMInteg_SearchResources_Controller	[Custom Apex Class]"
+			],
+			[
+				"Sear",
+				"SearchResponse"
+			],
+			[
+				"selected",
+				"selectedBases"
+			],
+			[
+				"list",
+				"listBases"
+			],
+			[
+				"on",
+				"onchange	(String)"
+			],
+			[
+				"input",
+				"apex:inputText"
+			],
+			[
+				"Price",
+				"Price__c	[Sobject Name]"
+			],
+			[
+				"Ex",
+				"Extra__c	[Sobject Name]"
+			],
+			[
+				"getS",
+				"PUBLIC getSObjectType() 	Schema.SObjectType"
+			],
+			[
+				"Resource",
+				"Resource__c	[Sobject Name]"
+			],
+			[
+				"Ba",
+				"BatchResourceSubObject	[Custom Apex Class]"
+			],
+			[
+				"LO",
+				"LoggingLevel	[Standard Apex Class]"
+			],
+			[
+				"de",
+				"debug(Enum_loglevel, Anydatatype_msg)"
+			],
+			[
+				"que",
+				"queryResult"
+			],
+			[
+				"i",
+				"Id"
+			],
+			[
+				"put",
+				"PUBLIC put(ANY key, ANY value) 	String"
+			],
+			[
+				"creat",
+				"PUBLIC createAllResourceSubObjects(Id resourceId, ResourceWrapper resource) 	void"
+			],
+			[
+				"BM_",
+				"BM_id__c"
+			],
+			[
+				"BMInteg_Obj",
+				"BMInteg_ObjectCRUDService	[Custom Apex Class]"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel.Horky/Workspaces/NooDMS/NooDMS/package.json",
+		"/C/Users/Daniel.Horky/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_SearchResources_Controller.cls",
+		"/C/Users/Daniel.Horky/Desktop/wp2ghost_export_1403536023.json",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_ObjectRowMapper.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/BMInteg_SearchResources.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_Opportunity_Resource_Adder.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/Opportunity_Resource_Adder.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/Opportunity_Resource_Adder.page-meta.xml",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/MultiselectControllerTest.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_Oppportunity_Resource_Adder.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/Opportunity_InvoicePDF.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_Opportunity_OfferPDF.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_Opportunity_InvoicePDF.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_Global_Service.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_OrderResource.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/Opportunity_OfferPDF.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/MultiselectController.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/Controller_ResourceReservation.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/BMInteg_PdfPrintTest.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_PdfPrint_Controller.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/BMInteg_Test_PDFPrintPage.page",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/pages/forms/general.html",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.538dc8a75de59a77/Nabidkalodivzor.html",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/opportunityExtra.page",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/objects/Opportunity_Extra__c.object",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/config/.settings",
+		"/C/Users/Daniel.Horky/Desktop/server.log",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/pages/BMInteg_PdfPrintTest.page-meta.xml",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/batchTest.cls",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.538c47cd5806466a/nabidkalodi-vzor.html",
+		"/C/Users/Daniel.Horky/Desktop/Nabidkalodi-vzor.htm",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.538c433457f44fc8/target.html",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.538c439257f5be9a/o_40b3594da616fd32.html",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_ObjectCRUDService.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BatchResourceSubObject.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_ObjectWrapper.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_XmlParser.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/BMInteg_SoapGeneratedApi.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/src/classes/ResourceBatch.cls",
+		"/C/Users/Daniel.Horky/Workspaces/Mavens Mate/YachtCharter/debug/logs/2014-05-27T15 00 59.000Z-00511000001OSmpAAG.log",
+		"/C/Users/Daniel.Horky/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/ForcedotcomWorkspace/Yachtcharter-20140523/metadata/unpackaged/classes/ObjectRowMapper.cls",
+		"/C/ForcedotcomWorkspace/Yachtcharter-20140523/metadata/unpackaged/objects/Account.object",
+		"/C/ForcedotcomWorkspace/Yachtcharter-20140523/src/classes/XmlParser.cls",
+		"/C/Users/Daniel.Horky/AppData/Roaming/Sublime Text 3/Packages/Salesforce IDE/config/settings/toolingapi.sublime-settings",
+		"/C/Users/Daniel.Horky/AppData/Roaming/Sublime Text 3/Packages/user/toolingapi.sublime-settings",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/crm/js/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.cs-CZ.js",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/pages/forms/editors.html",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/crm/js/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.en-GB.js",
+		"/C/Users/Daniel.Horky/Desktop/test.csv",
+		"/C/Users/Daniel.Horky/jboss-as-7.1.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.5368a22b57dd3e8/qunit.js",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/pages/forms/advanced.html",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/pages/UI/general.html",
+		"/C/Users/DANIEL~1.HOR/AppData/Local/Temp/BNZ.534fd52b68a6a54/index.html",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/WEB-INF/test.html",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/pages/tables/data.html",
+		"/C/Users/Daniel.Horky/Desktop/test.html",
+		"/C/Users/Daniel.Horky/Workspaces/euander/target/server.log",
+		"/C/Users/Daniel.Horky/Desktop/localhost.2014-04-03.log",
+		"/C/Users/Daniel.Horky/Desktop/content.xml",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/js/plugins/fullcalendar/fullcalendar.js",
+		"/C/Users/Daniel.Horky/Downloads/Petr_Zahradnik_CV.odt",
+		"/C/Users/Daniel.Horky/Workspaces/EUACRM/index.html",
+		"/C/Users/Daniel.Horky/Workspaces/EUACRM/dash.html",
+		"/C/Users/Daniel.Horky/Workspaces/AdminLTE-master/empty.html",
+		"/C/Users/Daniel.Horky/Workspaces/euander/target/content.xml",
+		"/C/Users/Daniel.Horky/Workspaces/euander/target/t.js",
+		"/C/Users/Daniel.Horky/Desktop/subpage-menu.php",
+		"/C/Users/Daniel.Horky/Desktop/restore-jquery/restore-jquery.php",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_orders_broadcasted.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_orders_declinedBy.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_orders_offers.json",
+		"/C/Users/Daniel.Horky/Desktop/sf theme.css",
+		"/C/Users/Daniel.Horky/Desktop/script.js",
+		"/C/Users/Daniel.Horky/Desktop/authorized_keys",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_rating_flat.csv",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_rides_from_rating.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_orders.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_rides.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_taxi_other.csv",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/rideorder.txt",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_rides_from_rating.csv",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_cars.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_taxi.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_taxi_flat.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_tariffs.json",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/scripts/jquery.smint.js",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_08.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_07.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_09.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_11.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_12.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_01.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_02.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_03.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_04.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_05.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_10.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/themes/theme_06.css",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_agreements.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_authInfo.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_wo_objects.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_roles.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_driver_referralInfo.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/import_rating.json",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/test.csv",
+		"/C/Users/Daniel.Horky/Downloads/Liftago DataBank/rideorder.json",
+		"/C/Users/Daniel.Horky/Desktop/masakr.sql",
+		"/C/Users/Daniel.Horky/Workspaces/chatango/ch.py",
+		"/C/Users/Daniel.Horky/Workspaces/chatango/mine.py",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/Try/[000446]",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/Try/[000446].jpg",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/Try/ĽręˇoÍ—Ä.ŮcB",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/Try/¤¦#ŮÎö .m2",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/test",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/)¦7ĺú®Č„.&ý¦",
+		"/C/Users/Daniel.Horky/Desktop/Recovery/'#daŕé˙ă.ĺV@",
+		"/C/Users/Daniel.Horky/jboss-as-7.1.1.Final/bin/BCT_CV_XXX.html",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/css/styles.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_10.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_09.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_02.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_08.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_07.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_06.css",
+		"/C/Users/Daniel.Horky/Workspaces/euander/src/main/webapp/theme_05.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 209.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"null",
+			"opportunityResource",
+			"if",
+			"resource",
+			"if",
+			"        		\n",
+			"ERROR",
+			"ApexPages.addMessage",
+			"\" value",
+			"value",
+			"null",
+			"value",
+			"boolean",
+			"opportunityResource",
+			"inputText",
+			"label",
+			"resource",
+			"sr",
+			"insert",
+			"action",
+			"6",
+			"5",
+			"border",
+			"Jan",
+			"Jan Barcík",
+			"center",
+			"itemExtra",
+			"itemPrice",
+			"itemName",
+			"Opportunity_Extra__c",
+			"CZK",
+			"Allianz",
+			"insuranceComp",
+			", '0,00'",
+			"style=\"text-decoration: undeline;\"",
+			"Kč",
+			" valign=\"top\"",
+			"Nalodění",
+			"headerSt",
+			"headerRd",
+			"headerNd",
+			"2",
+			"Objednana_lod__r",
+			"Account__r",
+			"Objednana_lod__r",
+			"\"",
+			"OpportunityLoop",
+			"$User",
+			" html-default-value=\"2000\"",
+			" required=\"true\"",
+			",",
+			"OpportunityExtras",
+			"Opportunity_",
+			"<input ",
+			"<input",
+			"filter.",
+			"<input",
+			"Resource__c",
+			"!or.",
+			"result",
+			"rce__",
+			"__c",
+			"c",
+			", ",
+			"odd",
+			"Account",
+			"true",
+			"class=\"head-delimeter\" ",
+			"Štípek",
+			", 2",
+			", ",
+			"Edit | Del	 	",
+			"\n			border: 1px solid black;",
+			"cfcfcf",
+			"black",
+			"c17",
+			"c3",
+			"span",
+			":",
+			"text",
+			"span",
+			"pull",
+			"ush",
+			".",
+			"left",
+			" style=\"float: right;\"",
+			"c38",
+			"c18",
+			"c21",
+			"<div class=\"footer\">\n		<table cellpadding=\"0\" cellspacing=\"0\" class=\"c21\">\n			<tbody>\n				<tr>\n					<td class=\"footer-cell\">\n						<span class=\"text\" style=\"color: #999999;\">www.</span>\n						<span class=\"text\" style=\"color: #ff0000;\">yachtcharter</span>\n						<span class=\"text\" style=\"color: #999999;\">.cz</span>\n					</td>\n					<td class=\"footer-cell\">\n						<p class=\"text\">YACHTCHARTER, s.r.o.</p>\n						<p class=\"text\">Jana R&#367;&#382;i&#269;ky 1234/6, 148 00 Praha 4</p>\n						<p class=\"text\">email: <a href=\"mailto:zindulka@yachtcharter.cz\">zindulka@yachtcharter.cz</a></p>\n						<p class=\"text\">tel.: +420 271 913 506</p>\n					</td>\n				</tr>\n			</tbody>\n		</table>\n	</div>",
+			"\"",
+			"<br>",
+			"color",
+			"c43",
+			"c45",
+			"c44",
+			"c0",
+			"\n		font-family:\"Verdana\";",
+			"family",
+			">\n",
+			"\n		font-family:\"Arial\";",
+			"/image001.jpg",
+			"<hr>",
+			"<img alt=\"\" src=\"images/image00.png\" style=\"width: 150.00px; height: 112.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);\" title=\"\">",
+			"<img",
+			"tableText",
+			"tableTitle",
+			"tableHead",
+			"<p>",
+			"\n\n",
+			"\n",
+			"Transient ",
+			"list",
+			"valign=",
+			"<a name=h.87ltskf74pt8></a>",
+			"PDFImages",
+			"Nabidkalodi-vzor_soubory",
+			"height=",
+			"width=",
+			"cellpadding=",
+			"cellspacing",
+			"border=",
+			"class=",
+			"TYPE=FOOTER",
+			"<IMG SRC=\"i_40b3594da616fd32_html_339c1a6f.png\" NAME=\"graphics3\" ALIGN=BOTTOM HSPACE=12 VSPACE=12 WIDTH=\"150\" HEIGHT=112 BORDER=0>",
+			"<IMG SRC=\"i_40b3594da616fd32_html_339c1a6f.png\" NAME=\"graphics2\" ALIGN=BOTTOM HSPACE=12 VSPACE=12 WIDTH=\"150\" HEIGHT=112 BORDER=0>",
+			"ALIGN=",
+			"TYPE="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"', '",
+			".get",
+			"a0Bi000000DJN99EAH",
+			"a0Bi000000DJN98EAH",
+			"a0Bi000000DcFmKEAV",
+			"a0Bi000000DcFmJEAV",
+			"a0Bi000000DcFmIEAV",
+			"a0Bi000000DcFmHEAV",
+			"a0Bi000000DcFmGEAV",
+			"a0Bi000000DcFmFEAV",
+			"a0Bi000000DcFmEEAV",
+			"a0Bi000000DcFmDEAV",
+			"a0Bi000000DcFmCEAV",
+			"a0Bi000000DcFmBEAV",
+			"a0Bi000000DcFmAEAV",
+			"a0Bi000000DcFm9EAF",
+			"a0Bi000000DcFm8EAF",
+			"a0Bi000000DcFm7EAF",
+			"a0Bi000000DcFm6EAF",
+			"a0Bi000000DcFm5EAF",
+			"a0Bi000000DcFm4EAF",
+			"a0Bi000000DcFm3EAF",
+			"a0Bi000000DcFm2EAF",
+			"a0Bi000000DcFm1EAF",
+			"a0Bi000000DcFm0EAF",
+			"a0Bi000000DcFlzEAF",
+			"a0Bi000000DcFlyEAF",
+			"a0Bi000000DcFlxEAF",
+			"a0Bi000000DcFlwEAF",
+			"a0Bi000000DcFlvEAF",
+			"a0Bi000000DcFluEAF",
+			"a0Bi000000DcFltEAF",
+			"a0Bi000000DcFlsEAF",
+			"a0Bi000000DJN9CEAX",
+			"a0Bi000000DJN9BEAX",
+			"a0Bi000000DJN9AEAX",
+			"a0Bi000000DJN99EAH",
+			"a0Bi000000DJN98EAH",
+			"a0Di000000A0Xp0EAF",
+			"a0Di000000A0XozEAF",
+			"a0Di000000A0Xp3EAF",
+			"a0Di000000A0Xp2EAF",
+			"a0Di000000A0Xp1EAF",
+			"a0Ci0000008ceIjEAI",
+			"a0Ci0000008ceIiEAI",
+			"a0Ci0000008ceIhEAI",
+			"a0Ci0000008ceIgEAI",
+			"a0Ci0000008ceIfEAI",
+			"a06i000000CCZQFAA5",
+			"a06i000000CCkqoAAD",
+			"a06i000000CCkqyAAD",
+			"a06i000000CCkqtAAD",
+			"a06i000000CCkr8AAD",
+			"a06i000000CCkr3AAD",
+			"a0Bi000000DJN9AEAX",
+			"a0Bi000000DJN98EAH",
+			"\"currency\": \"CZK\",\n      \"taxi\":",
+			"\"currency\": \"CZK\",\n      \"finishedAt\":",
+			"\"currency\": \"CZK\"",
+			",\n      \"taxameter\": {",
+			",\n      \"orderedAt\":",
+			",\"orderedAt\":",
+			",\"taxameter\": {",
+			"",
+			"a00i000000JU5IiAAL",
+			"a00i000000JU5IhAAL",
+			"a00i000000JU5IgAAL",
+			"a00i000000JU5IfAAL",
+			"a00i000000JU5IeAAL",
+			"",
+			"\nGROUP BY uuid, fn, ln, apr, asp, emp, pro, ski",
+			"BY uuid, fn, ln, apr, asp, emp, pro, ski\"",
+			"SELECT app_uuid AS uuid, app_given_name AS fn, app_family_name AS ln",
+			"null AS epr, null AS pro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "NooDMS.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 404.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
