@@ -1,5 +1,18 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	.site-wrapper
+		.site-wrapper-inner
+			.cover-container
+				div(class="masthead clearfix")
+					.inner
+						#logo
+						ul(class="nav masthead-nav")
+							li <a class="active" href="#">Přihlášení</a>
+							li <a href="#">Zapomenuté heslo</a>
+							li <a href="#">O aplikaci</a>
+				div(class="inner cover" style="text-align: center;")
+					#formDiv
+				.mastfoot
+					.inner
+						p Copyright <a href="http://dhanielk.me">Daniel Horký</a>

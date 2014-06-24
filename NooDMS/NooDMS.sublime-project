@@ -3,27 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "bin"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "data"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "node_modules"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "public"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "routes"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "views"
+			"path": "."
 		}
 	]
 }
